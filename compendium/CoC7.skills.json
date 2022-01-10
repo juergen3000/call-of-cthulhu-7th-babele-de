@@ -10,7 +10,7 @@
 			"id": "Archaeology",
 			"name": "Archäologie",
 			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
-		},		
+		},
 		{
 			"id": "Artillery",
 			"name": "Artillerie",
@@ -45,7 +45,7 @@
 			"id": "Fine Art",
 			"name": "Bildende Kunst",
 			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
-		},		
+		},
 		{
 			"id": "Biology",
 			"name": "Biologie",
@@ -95,7 +95,7 @@
 			"id": "Intimidate",
 			"name": "Einschüchtern",
 			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
-		},		
+		},
 		{
 			"id": "Electrical Repair",
 			"name": "Elektrische Reparaturen",
@@ -154,7 +154,7 @@
 		{
 			"id": "Language (Other)",
 			"name": "Fremdsprache (Andere)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk</span></p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
 		},
 		{
 			"id": "Garrote",
@@ -225,7 +225,7 @@
 			"id": "Read Lips",
 			"name": "Lippenlesen",
 			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
-		},		
+		},
 		{
 			"id": "Machine Gun",
 			"name": "Maschinengewehr",
@@ -259,28 +259,28 @@
 		{
 			"id": "Language (Own)",
 			"name": "Muttersprache",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk</span></p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
 		},
 		{
 			"id": "Natural World",
 			"name": "Naturkunde",
 			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
-		},		
+		},
 		{
 			"id": "Science (Any)",
 			"name": "Naturwissenschaft (Beliebig)",
-			"description": "<p><span style=\"color: #191813; font-size: 13px;\">Siehe Cthulhu 7 Grundregelwerk</span></p>"
-		},		
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
 		{
 			"id": "Occult",
 			"name": "Okkultismus",
 			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
-		},		
+		},
 		{
 			"id": "Navigate",
 			"name": "Orientierung",
 			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
-		},		
+		},
 		{
 			"id": "Whip",
 			"name": "Peitsche",
