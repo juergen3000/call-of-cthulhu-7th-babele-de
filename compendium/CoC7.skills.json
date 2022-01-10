@@ -420,6 +420,206 @@
 			"id": "Zoology",
 			"name": "Zoologie",
 			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Art/Craft (Acting)",
+			"name": "Handwerk/Kunst (Schauspiel)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Art/Craft (Fine Art)",
+			"name": "Handwerk/Kunst (Bildende Kunst)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Art/Craft (Forgery)",
+			"name": "Handwerk/Kunst (Fälschen)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Art/Craft (Photography)",
+			"name": "Handwerk/Kunst (Fotografie)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Civics",
+			"name": "Staatsbürgerkunde",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Drive Carriage",
+			"name": "Gespann fahren",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Fighting (Axe)",
+			"name": "Nahkampf (Axt)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Fighting (Brawl)",
+			"name": "Nahkampf (Handgemenge)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Fighting (Chainsaw)",
+			"name": "Nahkampf (Kettensäge)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Fighting (Flail)",
+			"name": "Nahkampf (Flegelwaffe)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Fighting (Garrote)",
+			"name": "Nahkampf (Garotte)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Fighting (Spear)",
+			"name": "Nahkampf (Speer)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Fighting (Sword)",
+			"name": "Nahkampf (Schwert)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Fighting (Throw)",
+			"name": "Nahkampf (Werfen)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Fighting (Whip)",
+			"name": "Nahkampf (Peitsche)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Firearms (Artillery)",
+			"name": "Fernkampf (Artillerie)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Firearms (Bow)",
+			"name": "Fernkampf (Bogen)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Firearms (Flamethrower)",
+			"name": "Fernkampf (Flammenwerfer)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Firearms (Handgun)",
+			"name": "Fernkampf (Faustfeuerwaffe)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Firearms (Heavy Weapons)",
+			"name": "Fernkampf (Schwere Waffen)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Firearms (Machine Gun)",
+			"name": "Fernkampf (Maschinengewhr)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Firearms (Rifle/Shotgun)",
+			"name": "Fernkampf (Gewehr/Flinte)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Firearms (Submachine Gun)",
+			"name": "Fernkampf (Mashinenpistole)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Gambling",
+			"name": "Glücksspiel",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Lore (Any)",
+			"name": "Überlieferungen (beliebig)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Rope Use",
+			"name": "Seilnutzung",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Astronomy)",
+			"name": "Naturwissenschaft (Astronomie)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Biology)",
+			"name": "Naturwissenschaft (Biologie)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Botany)",
+			"name": "Naturwissenschaft (Botanik)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Chemistry)",
+			"name": "Naturwissenschaft (Chemie)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Cryptography)",
+			"name": "Naturwissenschaft (Kryptographie)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Engineering)",
+			"name": "Naturwissenschaft (Ingenieurswissenschaft)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Forensics)",
+			"name": "Naturwissenschaft (Forensik/Kriminaltechnik)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Geology)",
+			"name": "Naturwissenschaft (Geologie)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Mathematics)",
+			"name": "Naturwissenschaft (Mathematik)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Meteorology)",
+			"name": "Naturwissenschaft (Meteriologie)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Pharmacy)",
+			"name": "Naturwissenschaft (Pharmazie)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Physics)",
+			"name": "Naturwissenschaft (Physik)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Science (Zoology)",
+			"name": "Naturwissenschaft (Zoologie)",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+		},
+		{
+			"id": "Trap",
+			"name": "Fallenstellen",
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
 		}
 	]
 }
