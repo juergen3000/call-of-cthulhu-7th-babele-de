@@ -1,5 +1,8 @@
 {
 	"label": "Fertigkeiten",
+	"mapping": {
+		"specialization": "data.specialization"
+	},
 	"entries": [
 		{
 			"id": "Accounting",
@@ -34,27 +37,32 @@
 		{
 			"id": "Art/Craft (Acting)",
 			"name": "Handwerk/Kunst (Schauspiel)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Handwerk/Kunst"
 		},
 		{
 			"id": "Art/Craft (Any)",
 			"name": "Handwerk/Kunst (Beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Handwerk/Kunst"
 		},
 		{
 			"id": "Art/Craft (Fine Art)",
 			"name": "Handwerk/Kunst (Bildende Kunst)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Handwerk/Kunst"
 		},
 		{
 			"id": "Art/Craft (Forgery)",
 			"name": "Handwerk/Kunst (Fälschen)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Handwerk/Kunst"
 		},
 		{
 			"id": "Art/Craft (Photography)",
 			"name": "Handwerk/Kunst (Fotografie)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Handwerk/Kunst"
 		},
 		{
 			"id": "Artillery",
@@ -184,47 +192,57 @@
 		{
 			"id": "Fighting (Axe)",
 			"name": "Nahkampf (Axt)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Nahkampf"
 		},
 		{
 			"id": "Fighting (Brawl)",
 			"name": "Nahkampf (Handgemenge)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Nahkampf"
 		},
 		{
 			"id": "Fighting (Chainsaw)",
 			"name": "Nahkampf (Kettensäge)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Nahkampf"
+
 		},
 		{
 			"id": "Fighting (Flail)",
 			"name": "Nahkampf (Flegelwaffe)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Nahkampf"
 		},
 		{
 			"id": "Fighting (Garrote)",
 			"name": "Nahkampf (Garotte)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Nahkampf"
 		},
 		{
 			"id": "Fighting (Spear)",
 			"name": "Nahkampf (Speer)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Nahkampf"
 		},
 		{
 			"id": "Fighting (Sword)",
 			"name": "Nahkampf (Schwert)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Nahkampf"
 		},
 		{
 			"id": "Fighting (Throw)",
 			"name": "Nahkampf (Werfen)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Nahkampf"
 		},
 		{
 			"id": "Fighting (Whip)",
 			"name": "Nahkampf (Peitsche)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Nahkampf"
 		},
 		{
 			"id": "Fine Art",
@@ -234,42 +252,50 @@
 		{
 			"id": "Firearms (Artillery)",
 			"name": "Fernkampf (Artillerie)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fernkampf"
 		},
 		{
 			"id": "Firearms (Bow)",
 			"name": "Fernkampf (Bogen)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fernkampf"
 		},
 		{
 			"id": "Firearms (Flamethrower)",
 			"name": "Fernkampf (Flammenwerfer)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fernkampf"
 		},
 		{
 			"id": "Firearms (Handgun)",
 			"name": "Fernkampf (Faustfeuerwaffe)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fernkampf"
 		},
 		{
 			"id": "Firearms (Heavy Weapons)",
 			"name": "Fernkampf (Schwere Waffen)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fernkampf"
 		},
 		{
 			"id": "Firearms (Machine Gun)",
 			"name": "Fernkampf (Maschinengewhr)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fernkampf"
 		},
 		{
 			"id": "Firearms (Rifle/Shotgun)",
 			"name": "Fernkampf (Gewehr/Flinte)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fernkampf"
 		},
 		{
 			"id": "Firearms (Submachine Gun)",
 			"name": "Fernkampf (Maschinenpistole)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fernkampf"
 		},
 		{
 			"id": "First Aid",
@@ -344,17 +370,20 @@
 		{
 			"id": "Language (Any)",
 			"name": "Fremdsprache (Beliebig)",
-			"description": ""
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fremdsprache"
 		},
 		{
 			"id": "Language (Other)",
 			"name": "Fremdsprache (Andere)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fremdsprache"
 		},
 		{
 			"id": "Language (Own)",
 			"name": "Muttersprache",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Fremdsprache"
 		},
 		{
 			"id": "Law",
@@ -379,7 +408,8 @@
 		{
 			"id": "Lore (Any)",
 			"name": "Überlieferungen (beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Überlieferungen"
 		},
 		{
 			"id": "Machine Gun",
@@ -449,7 +479,8 @@
 		{
 			"id": "Pilot (Any)",
 			"name": "Steuern (Beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Steuern"
 		},
 		{
 			"id": "Psychoanalysis",
@@ -484,72 +515,86 @@
 		{
 			"id": "Science (Any)",
 			"name": "Naturwissenschaft (Beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Astronomy)",
 			"name": "Naturwissenschaft (Astronomie)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Biology)",
 			"name": "Naturwissenschaft (Biologie)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Botany)",
 			"name": "Naturwissenschaft (Botanik)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Chemistry)",
 			"name": "Naturwissenschaft (Chemie)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Cryptography)",
 			"name": "Naturwissenschaft (Kryptographie)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Engineering)",
 			"name": "Naturwissenschaft (Ingenieurswissenschaft)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Forensics)",
 			"name": "Naturwissenschaft (Forensik/Kriminaltechnik)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Geology)",
 			"name": "Naturwissenschaft (Geologie)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Mathematics)",
 			"name": "Naturwissenschaft (Mathematik)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Meteorology)",
 			"name": "Naturwissenschaft (Meteriologie)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Pharmacy)",
 			"name": "Naturwissenschaft (Pharmazie)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Physics)",
 			"name": "Naturwissenschaft (Physik)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Science (Zoology)",
 			"name": "Naturwissenschaft (Zoologie)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Naturwissenschaft"
 		},
 		{
 			"id": "Sleight of Hand",
@@ -579,7 +624,8 @@
 		{
 			"id": "Survival (Any)",
 			"name": "Überlebenskunst (Beliebig)",
-			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>"
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Überlebenskunst"
 		},
 		{
 			"id": "Swim",
@@ -604,7 +650,8 @@
 		{
 			"id": "Track (Any)",
 			"name": "Spurensuche (Beliebig)",
-			"description": ""
+			"description": "<p>Siehe Cthulhu 7 Grundregelwerk</p>",
+			"specialization": "Spurensuche"
 		},
 		{
 			"id": "Trap",
